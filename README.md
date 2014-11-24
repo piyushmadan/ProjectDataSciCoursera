@@ -27,6 +27,6 @@ Please set working directory to unzipped project data file using command: setwd(
 Code book can be found in file codebook.txt
 
 ### Output
-Output as tidy data is added as tidy_data.txt
+Output as tidy data is added as tidydata.txt
 
 
